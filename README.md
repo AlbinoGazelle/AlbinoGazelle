@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 📣 I'm passionate about making tech more secure, equitable, and accessible for all! 
 
-🛠 Follow my journey and learn more about me at my personal [website](https://nburns.tech) 🦺under construction🦺
+🛠 Follow my journey and learn more about me at my personal [website](https://nburns.tech)
 
 
