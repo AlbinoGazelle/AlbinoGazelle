@@ -15,14 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💡 My pronouns are He/Him/His
-
-⚙ I'm currently learning [Rust](https://github.com/AlbinoGazelle/Learning-Rust)
-
-🎓 I'm currently working on getting my bachelor's in Cyber Security
-
-📣 I'm passionate about making tech more secure, equitable, and accessible for all! 
-
-🛠 Follow my journey and learn more about me at my personal [website](https://nburns.tech)
-
 
