@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
+- 🔭 I’m currently working on contributing to Open Source Detection Engineering projects such as [Sigma](https://github.com/SigmaHQ/sigma), [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team), and others!
+- 🌱 I’m currently learning how to better detect and secure ESXi environments.
+- Ask me about anything!
